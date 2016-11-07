@@ -1,0 +1,14 @@
+{
+  "name": "jquery.detectSwipe",
+  "version": "2.1.3",
+  "description": "jquery.detectSwipe",
+  "main": "jquery.detect_swipe.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkasperski/detect_swipe.git"
+  },
+  "keywords": ["jquery"],
+  "author": "Marc-Andre Lafortune",
+  "license": "MIT",
+  "homepage": "https://github.com/marcandre/detect_swipe/blob/master/README.md"
+}

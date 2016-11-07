@@ -44,10 +44,10 @@
       var dy = startY - y;
       var dir;
       if(Math.abs(dx) >= $.detectSwipe.threshold) {
-        dir = dx > 0 ? 'left' : 'right'
+        dir = dx > 0 ? 'left' : 'right';
       }
       else if(Math.abs(dy) >= $.detectSwipe.threshold) {
-        dir = dy > 0 ? 'up' : 'down'
+        dir = dy > 0 ? 'up' : 'down';
       }
       if(dir) {
         onTouchEnd.call(this);
